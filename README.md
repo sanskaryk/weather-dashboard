@@ -1,6 +1,7 @@
 # 🌦️ Weather Forecast Analytics Dashboard (Power BI)
 Live Dashboard - https://bit.ly/4azENYj
- 
+
+<img width="1006" height="581" alt="weather_dashboard" src="https://github.com/user-attachments/assets/2584e9fb-c908-403e-8f37-05dec9e32d49" />
 
 ## 📌 Project Overview
 
@@ -129,7 +130,7 @@ This ensures the dashboard updates automatically without manual intervention.
 
 ## 👤 Author
 
-[Your Name]
+Sanskar Gupta
 
 ---
 
